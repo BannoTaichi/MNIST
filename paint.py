@@ -1,3 +1,4 @@
+# https://qiita.com/jedi/items/31ae12f45b560ecca646
 import tkinter
 
 
