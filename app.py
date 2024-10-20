@@ -1,4 +1,3 @@
-# conda install pillow
 import tensorflow as tf
 from PIL import Image
 import numpy as np

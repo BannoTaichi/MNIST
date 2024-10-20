@@ -1,5 +1,3 @@
-# conda create -n mnist python=3.10
-# conda install tensorflow
 import tensorflow as tf
 from tensorflow.keras.datasets import mnist
 
