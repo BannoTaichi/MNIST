@@ -1,7 +1,8 @@
 # パッケージ
-- conda create -n mnist python=3.10
+- conda create -n mnist python=3.8
 - conda install tensorflow
 - conda install pillow
+- conda install conda-forge::pygame
 
 # 参考資料
 - YouTuber プログラマーやすなり『プログラミングチャレンジ！8行でAI作ってみた。手書き数字識別編』
